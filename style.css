@@ -1,0 +1,44 @@
+body{
+  background-color: black;
+}
+.headbox{
+  background-color: #704F4F;
+  width: 1000px;
+  margin: auto;
+}
+.htabele{
+  width: 1000px;
+}
+.box{
+  width: 1000px;
+  background-position: center;
+  margin: auto;
+  background-color: #704F4F;
+}
+p, li, table{
+  color: white;
+}
+h2{
+  color: black;
+  background-position: center;
+}
+.box1{
+  background-color: black;
+}
+.bgtitels{
+  background-color: #A77979;
+}
+hr {
+border-style: dotted none none;
+width:5%;
+border-width:5px;
+border-color: white;
+}
+.bgbox{
+  background-position: center;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin: auto;
+
+}
+hey guys today I will intruduce my self because I will faced people how dosent giv a chance
